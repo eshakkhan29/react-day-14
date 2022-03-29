@@ -1,0 +1,10 @@
+.details{
+    margin-top: 100px;
+    border: 2px solid coral;
+    padding: 40px;
+    border-radius: 50%;
+    box-shadow: 3px 3px 20px;
+}
+.details img{
+    border-radius: 30px;
+}
